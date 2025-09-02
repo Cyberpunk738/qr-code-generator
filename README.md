@@ -12,7 +12,7 @@ A simple, fast, and stylish QR code & barcode generator built with **HTML**, **C
 - ⚡ **Live preview**: see your code update instantly
 - 💾 **Download as PNG** with one click
 - 🖥️ **Responsive UI**: works on desktop & mobile
-- 🛠️ **No backend required**: pure front-end solution
+- 🛠️ **No backend required**: pure front-end solutions
 
 ---
 
