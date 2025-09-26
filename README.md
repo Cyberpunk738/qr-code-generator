@@ -10,7 +10,7 @@ A simple, fast, and stylish QR code & barcode generator built with **HTML**, **C
 - 🔢 **Create standard barcodes** (EAN, UPC, Code128, etc.)
 - 🎨 **Customizable design**: colors, sizes, and icons
 - ⚡ **Live preview**: see your code update instantly
-- 💾 **Download as PNG** with one click
+- 💾 **Download as PNG** with one click,
 - 🖥️ **Responsive UI**: works on desktop & mobile
 - 🛠️ **No backend required**: pure front-end solutions
 
